@@ -114,6 +114,19 @@ https://s-m.com.sa/b.html: Represents the movement "backward.".
 
 8- Error Handling: If there's an error in the HTTP request, the error code is printed to the serial monitor.
 
-In this task we using [Wokwi](https://wokwi.com) and select ESP32 then we connect it with 4 LED 
-This code is an Arduino program to remotely control four LED lights using Wi-Fi connection
+### Forward 
+
+![image](https://github.com/amf17/IOT_Task1/assets/139582388/51f4f620-6ad8-4222-ba40-82fde820c847)
+
+### Backward 
+
+![image](https://github.com/amf17/IOT_Task1/assets/139582388/88c11ef8-5064-4886-b350-0024f3ac2943)
+
+### Right
+
+![image](https://github.com/amf17/IOT_Task1/assets/139582388/bf451747-0080-4355-972e-0c4ddc3d5ad8)
+
+### Left
+
+![image](https://github.com/amf17/IOT_Task1/assets/139582388/17a3e878-3992-4e93-a539-6a5fc7a493c9)
 
