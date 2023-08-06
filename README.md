@@ -133,6 +133,6 @@ https://s-m.com.sa/b.html: Represents the movement "backward.".
 
 ## Conclusion:
 
-The provided code demonstrates how an ESP32 microcontroller can be used to create a remote control robot system using WiFi and HTTP communication. It connects to a specified WiFi network, communicates with a remote server to receive control commands, and controls the robot's movement based on the received instructions. This project serves as a foundation for building more complex remote control systems and could be extended to include additional features such as camera streaming or obstacle detection.
+The provided code demonstrates how an ESP32 microcontroller can be used to create a remote control robot system using WiFi and HTTP communication. It connects to a specified WiFi network, communicates with a remote server to receive control commands, and controls the robot's movement based on the received instructions. 
 
 
